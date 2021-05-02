@@ -1,7 +1,7 @@
 # Hypervideo-Card
 Decision plugin for [Hypervideos.js](https://github.com/Aleix88/Hypervideos)
 <div>
-    <img src="https://github.com/Aleix88/Hypervideo-Questionary/blob/main/decision.png?raw=true">
+    <img src="https://github.com/Aleix88/Hypervideo-Decision/blob/main/decision.png?raw=true">
 </div>
 
 ## Features
